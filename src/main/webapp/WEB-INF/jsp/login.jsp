@@ -84,7 +84,7 @@
     </div>
 
     <div class="container">
-        <label for="uname"><b>Username</b></label>
+        <%--@declare id="uname"--%><%--@declare id="psw"--%><label for="uname"><b>Username</b></label>
         <input type="text" placeholder="Enter Username" name="uname" required>
 
         <label for="psw"><b>Password</b></label>
